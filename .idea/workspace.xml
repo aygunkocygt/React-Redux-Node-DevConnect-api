@@ -2,93 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71566b2f-037f-4121-ae7f-619a09cb1cd7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/devconnector.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/EditProfile/EditProfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/actions/authActions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/actions/postActions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/actions/profileActions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/actions/types.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/add-credentials/AddEducation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/add-credentials/AddExperience.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/auth/Login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/auth/Register.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/common/InputGroup.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/common/PrivateRoute.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/common/SelectListGroup.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/common/Spinner.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/common/TextAreaFieldGroup.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/common/TextFieldGroup.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/common/spinner.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/create-profile/CreateProfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/dashboard/Dashboard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/dashboard/Education.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/dashboard/Experience.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/dashboard/ProfileAction.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/layout/Footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/layout/Landing.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/layout/Navbar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/not-found/NotFound.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/post/CommentFeed.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/post/CommentForm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/post/CommentItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/post/Post.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/posts/PostFeed.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/posts/PostForm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/posts/PostItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/posts/Posts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/profile/Profile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/profile/ProfileAbaout.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/profile/ProfileCreds.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/profile/ProfileGithub.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/profile/ProfileHeader.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/profiles/ProfileItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/profiles/Profiles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/img/showcase.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/reducers/authReducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/reducers/errorReducers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/reducers/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/reducers/postReducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/reducers/profileReducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/serviceWorker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/store.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/utils/setAuthToken.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/validation/is-empty.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/keys.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/keys_dev.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/keys_prod.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/passport.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/Post.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/Profile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/User.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/api/posts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/api/profile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/api/users.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/validation/education.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/validation/experience.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/validation/is-empty.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/validation/login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/validation/post.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/validation/profile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/validation/register.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -164,7 +79,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="gitignore" value="20" />
+          <entry key="gitignore" value="22" />
           <entry key="html" value="67" />
           <entry key="js" value="38665" />
           <entry key="json" value="327" />
@@ -175,14 +90,14 @@
           <entry key="HTML" value="67" />
           <entry key="JSON" value="327" />
           <entry key="JavaScript" value="38665" />
-          <entry key="PLAIN_TEXT" value="20" />
+          <entry key="PLAIN_TEXT" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="2" />
           <entry key="gif" value="2" />
-          <entry key="gitignore" value="3" />
+          <entry key="gitignore" value="5" />
           <entry key="html" value="1" />
           <entry key="jpg" value="1" />
           <entry key="js" value="203" />
@@ -196,7 +111,7 @@
           <entry key="Image" value="3" />
           <entry key="JSON" value="13" />
           <entry key="JavaScript" value="203" />
-          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
     </session>
@@ -206,8 +121,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+            <state relative-caret-position="187">
+              <caret line="11" column="14" lean-forward="true" selection-start-line="10" selection-end-line="11" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -290,11 +205,11 @@
         <option value="$PROJECT_DIR$/client/src/component/posts/PostItem.js" />
         <option value="$PROJECT_DIR$/client/src/component/post/CommentForm.js" />
         <option value="$PROJECT_DIR$/config/keys_dev.js" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/config/keys.js" />
         <option value="$PROJECT_DIR$/config/keys_prod.js" />
         <option value="$PROJECT_DIR$/server.js" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -315,8 +230,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="950" />
-    <option name="y" value="1" />
+    <option name="x" value="395" />
+    <option name="y" value="22" />
     <option name="width" value="1112" />
     <option name="height" value="749" />
   </component>
@@ -334,11 +249,6 @@
               <item name="devconnector" type="b2602c69:ProjectViewProjectNode" />
               <item name="devconnector" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="devconnector" type="b2602c69:ProjectViewProjectNode" />
-              <item name="devconnector" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -355,14 +265,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\projeler\devconnector\client\src\img" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\projeler\devconnector" />
       <recent name="C:\projeler\devconnector\client\src\component\Profiles" />
       <recent name="C:\projeler\devconnector\client\src\component\add-credentials" />
       <recent name="C:\projeler\devconnector\client\src\component\common" />
       <recent name="C:\Users\aygun_000\WebstormProjects\devconnector\routes\api" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\projeler\devconnector\client\src\img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -410,18 +321,17 @@
       <workItem from="1542132743176" duration="129000" />
       <workItem from="1542133226085" duration="4108000" />
       <workItem from="1542192715861" duration="10748000" />
-      <workItem from="1542206327273" duration="7046000" />
+      <workItem from="1542206327273" duration="7580000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="144322000" />
+    <option name="totallyTimeSpent" value="144856000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="492" y="11" width="1200" height="748" extended-state="0" />
-    <editor active="true" />
+    <frame x="395" y="22" width="1112" height="749" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24612737" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26629424" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -433,7 +343,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.28455284" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.2840909" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -857,8 +767,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        <state relative-caret-position="187">
+          <caret line="11" column="14" lean-forward="true" selection-start-line="10" selection-end-line="11" selection-end-column="14" />
         </state>
       </provider>
     </entry>
